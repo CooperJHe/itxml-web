@@ -1,0 +1,1 @@
+import{d as n,o,c as t,q as s,v as c,l as a}from"./index-DcXlLcvD.js";const r="/itxml-web/assets/puc-g9SC8zTx.svg",l={class:"container-min-vh flex-center",style:{width:"100%","background-color":"#fff9eb"}},d=n({__name:"PageUnderConstruction",setup(_){return(m,i)=>{const e=a("Image");return o(),t("div",l,[s(e,{src:c(r),height:"100%"},null,8,["src"])])}}});export{d as default};
