@@ -1,0 +1,1 @@
+import{d as t,l as s,o,c as n,q as a,v as c}from"./index-CT2tekc9.js";const _="/assets/website_img5-Dj1DUkVM.webp",r={style:{width:"100%",height:"100%"},class:"flex-center"},h=t({__name:"WebsiteBackStage",setup(i){return(m,l)=>{const e=s("Image");return o(),n("div",r,[a(e,{src:c(_),width:"auto",height:"100%"},null,8,["src"])])}}});export{h as _};
